@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
-<h3 align="center">Artificial Intelligence and Machine Learning</h3>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
